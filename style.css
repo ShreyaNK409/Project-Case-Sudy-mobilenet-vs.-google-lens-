@@ -1,0 +1,55 @@
+body
+{
+    color:white;
+    background-color: black;
+}
+
+.object img
+{
+  width: 30%;
+}
+
+.copyright_footer
+{
+    background-color:pink;
+    color: black;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 5px 5px 30px gray;
+ }
+
+.object
+{
+    background-color:pink;
+  padding: 10x;
+  width: 300px;
+  
+  box-shadow: 5px 5px 18px pink;
+}
+
+.object p
+{
+    background-color:palevioletred;
+    padding: 10x;
+    width: 300px;
+    
+    box-shadow: 5px 5px 18px black;
+}
+
+#result p
+{
+    background-color:palevioletred;
+    padding: 10x;
+    width: 300px;
+    
+    box-shadow: 5px 5px 18px plum; 
+}
+
+h1
+{
+    background-color:palevioletred;
+    padding: 10x;
+    width: 300px;
+}
